@@ -36,7 +36,7 @@ GIF created with QuickTime.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges - learning Swift syntax
 
 ## License
 
